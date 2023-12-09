@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/@p_r_a_n_t_h_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@p_r_a_n_t_h_o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raiyan14aakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raiyan14aakil" height="30" width="40" /></a>
-<a href="https://fb.com/aakil raiyan prantho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakil.raiyan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aakil.raiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakil.raiyan" height="30" width="40" /></a>
 <a href="https://instagram.com/prantho.with.a.silent.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prantho.with.a.silent.h" height="30" width="40" /></a>
 </p>
 
