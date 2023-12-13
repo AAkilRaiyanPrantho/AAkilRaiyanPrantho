@@ -25,19 +25,19 @@
 
 <h4>1. X-Mobiles</h4>
 <p>Live Link: https://x-mobiles-car-showroom.netlify.app</p>
-<p>Github Repo Link: https://github.com/AAkilRaiyanPrantho/X-Mobiles?tab=readme-ov-file</p>
+<p>Github Repo Link: https://github.com/AAkilRaiyanPrantho/X-Mobiles-Client-Site</p>
 <h4>What the project was about -</h4> 
 <p>A car showroom website. People can look for different cars from different brands and make a purchase when they make up their minds</p>
 
 <h4>2. Learnivers</h4>
 <p>Live Link: https://learniverse-education.netlify.app/</p>
-<p>Github Repo Link: https://github.com/AAkilRaiyanPrantho/Learniverse</p>
+<p>Github Repo Link: https://github.com/AAkilRaiyanPrantho/Learniverse-Client-Site</p>
 <h4>What the project was about -</h4> 
 <p>An online education platform. Here students can upload their own created assignments and also take part in assignments submitted by other students. One can see their submitted answer scripts and see whether they have been checked by the examiner or not</p>
 
 <h4>3. SkyNest</h4>
 <p>Live Link: https://skynest-apartments.netlify.app/ </p>
-<p>Github Repo Link: https://github.com/AAkilRaiyanPrantho/SkyNest</p>
+<p>Github Repo Link: https://github.com/AAkilRaiyanPrantho/SkyNest-Client-Site</p>
 <h4>What the project was about -</h4> 
 <p>This is an Apartment Renting site. The owner of a building is the admin of this website and others can use this site by becoming a User. They can browse through the site and look for a rental apartment. Once they find one, they can apply for a rental and the Owner can either accept or deny such request. Once the request is accepted, the User becomes a member and can see extra features in his/her Dashboard</p>
 
